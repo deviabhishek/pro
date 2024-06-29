@@ -1,2 +1,0 @@
-# pro
-my gradel build
